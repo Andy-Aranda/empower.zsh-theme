@@ -37,4 +37,4 @@ Activate a new theme with `$ source ~/.zshrc`.
 
 Please reach me out at [andrea@andyengineer.dev](andrea@andyengineer.dev)
 
-Thanks!
+Thanks!!
